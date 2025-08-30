@@ -1,5 +1,4 @@
-// Dup2 prints the count and text of lines that appear more than once
-// in the input. It reads from stdin of from a list of named files.
+// Modify dup2 to print the names of all files in which each duplicated line occurs.
 package main
 
 import (
