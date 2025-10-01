@@ -1,4 +1,4 @@
-// Change the Lissajous program’s color palette to green on black
+// Change the Lissajous program’s color palette to green on black.
 package main
 
 import (

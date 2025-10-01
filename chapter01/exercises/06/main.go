@@ -1,4 +1,4 @@
-// Lissajous generates GIF animations of random Lissajous figures.
+// Modify the Lissajous program to produce images in multiple colors.
 package main
 
 import (
