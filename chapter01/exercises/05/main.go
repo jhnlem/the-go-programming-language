@@ -1,4 +1,4 @@
-// Lissajous generates GIF animations of random Lissajous figures.
+// Change the Lissajous program’s color palette to green on black
 package main
 
 import (
