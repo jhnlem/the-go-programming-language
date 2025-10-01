@@ -31,5 +31,5 @@ go.work.sum
 # .idea/
 # .vscode/
 
-#.DS_Store files
+# macOS system files
 .DS_Store
